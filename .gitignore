@@ -1,5 +1,5 @@
 Gemfile.lock
 *~
 *.sw*
-javascript/*
-stylesheet/*
+javascript/*.js
+stylesheet/*.css
